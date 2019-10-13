@@ -169,7 +169,7 @@ Procedure MainLoop;
 Begin
     If game = playing Then
         Begin
-			clrscr;
+            clrscr;
             DrawGame;
             SnakeMoving;
             CheckTouchFood;
@@ -183,7 +183,7 @@ Begin
     Begin
         Delay(gameSpeed);
         If KeyPressed Then
-			onPressedKey(readkey);
+            onPressedKey(readkey);
         MainLoop;
     End;
 End.
