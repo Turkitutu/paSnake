@@ -19,7 +19,7 @@ const
     LEFT_KEY = 'j';
     RIGTH_KEY = 'l';
     EXIT_KEY = 'e';
-    dotChar = '?';
+    dotChar = '•';
     headChar = '@';
     foodChar = '*';
     password = '0000';
