@@ -1,2 +1,2 @@
 # paSnake
-A sample ascii game with pascal
+A simple ascii game with pascal
